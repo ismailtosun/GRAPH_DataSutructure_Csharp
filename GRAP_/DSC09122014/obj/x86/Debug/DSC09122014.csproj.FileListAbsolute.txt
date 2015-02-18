@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\bin\Debug\DSC09122014.exe
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\bin\Debug\DSC09122014.pdb
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.exe
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.pdb
+C:\Users\Student\Desktop\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.exe
+C:\Users\Student\Desktop\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.pdb
+C:\Users\Student\Desktop\DSC09122014\DSC09122014\bin\Debug\DSC09122014.exe
+C:\Users\Student\Desktop\DSC09122014\DSC09122014\bin\Debug\DSC09122014.pdb
+C:\Users\ismailtsn92\Desktop\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.exe
+C:\Users\ismailtsn92\Desktop\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.pdb
+C:\Users\ismailtsn92\Desktop\Veri yapıları\graph son içinde kopy falan da var\DSC09122014\obj\x86\Debug\DSC09122014.exe
+C:\Users\ismailtsn92\Desktop\Veri yapıları\graph son içinde kopy falan da var\DSC09122014\obj\x86\Debug\DSC09122014.pdb
